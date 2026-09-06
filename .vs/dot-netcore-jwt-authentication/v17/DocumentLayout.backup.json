@@ -1,28 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\projects\\github-repos\\dot-netcore-jwt-authentication\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{4ABEC453-B6F0-4E95-83C4-88127AC5E7F4}|dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication.csproj|e:\\projects\\github-repos\\dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ABEC453-B6F0-4E95-83C4-88127AC5E7F4}|dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication.csproj|solutionrelative:dot-netcore-jwt-authentication\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4ABEC453-B6F0-4E95-83C4-88127AC5E7F4}|dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication.csproj|e:\\projects\\github-repos\\dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ABEC453-B6F0-4E95-83C4-88127AC5E7F4}|dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication.csproj|solutionrelative:dot-netcore-jwt-authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4ABEC453-B6F0-4E95-83C4-88127AC5E7F4}|dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication.csproj|e:\\projects\\github-repos\\dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4ABEC453-B6F0-4E95-83C4-88127AC5E7F4}|dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication.csproj|solutionrelative:dot-netcore-jwt-authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4ABEC453-B6F0-4E95-83C4-88127AC5E7F4}|dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication.csproj|e:\\projects\\github-repos\\dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ABEC453-B6F0-4E95-83C4-88127AC5E7F4}|dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication.csproj|solutionrelative:dot-netcore-jwt-authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4ABEC453-B6F0-4E95-83C4-88127AC5E7F4}|dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication.csproj|e:\\projects\\github-repos\\dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ABEC453-B6F0-4E95-83C4-88127AC5E7F4}|dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication.csproj|solutionrelative:dot-netcore-jwt-authentication\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,76 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "E:\\projects\\github-repos\\dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "dot-netcore-jwt-authentication\\Controllers\\EmployeeController.cs",
-              "ToolTip": "E:\\projects\\github-repos\\dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "dot-netcore-jwt-authentication\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T16:33:33.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "E:\\projects\\github-repos\\dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "dot-netcore-jwt-authentication\\Controllers\\AuthController.cs",
-              "ToolTip": "E:\\projects\\github-repos\\dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "dot-netcore-jwt-authentication\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T16:33:31.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\projects\\github-repos\\dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication\\appsettings.json",
-              "RelativeDocumentMoniker": "dot-netcore-jwt-authentication\\appsettings.json",
-              "ToolTip": "E:\\projects\\github-repos\\dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication\\appsettings.json",
-              "RelativeToolTip": "dot-netcore-jwt-authentication\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-06T16:33:14.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\projects\\github-repos\\dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication\\Program.cs",
-              "RelativeDocumentMoniker": "dot-netcore-jwt-authentication\\Program.cs",
-              "ToolTip": "E:\\projects\\github-repos\\dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication\\Program.cs",
-              "RelativeToolTip": "dot-netcore-jwt-authentication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T16:33:08.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "E:\\projects\\github-repos\\dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "dot-netcore-jwt-authentication\\WeatherForecast.cs",
-              "ToolTip": "E:\\projects\\github-repos\\dot-netcore-jwt-authentication\\dot-netcore-jwt-authentication\\WeatherForecast.cs",
-              "RelativeToolTip": "dot-netcore-jwt-authentication\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T16:33:03.052Z",
-              "EditorCaption": ""
             }
           ]
         }
